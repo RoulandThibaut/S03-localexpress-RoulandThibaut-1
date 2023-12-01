@@ -9,5 +9,6 @@ export default defineConfig({
     watch: {
       usePolling: true
     },
-  }
+  },
+  base: '/S03-localexpress-RoulandThibaut-1'
 })
