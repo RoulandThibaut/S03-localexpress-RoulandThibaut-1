@@ -51,11 +51,26 @@ TODO
 
 ### User stories
 
-TODO
+client : 
+- Voir les produits Description
+- Voir le Détail
+- Ajout produit dans panier
+- Modifier quantité produit
+- Supprimer produit
+- Vider mon panier
+- Voir montant total
+- Valider ma commande
+
+commercant : 
+- Ajouter un produit
+- Modifier un produit
+- Supprimer un produit
+- Voir les commande en cours
+
+
 
 ### Cas d’utilisation
 
-TODO
 
 ### Diagramme d’entité-association
 
